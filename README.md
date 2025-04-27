@@ -11,7 +11,7 @@ A web-based interactive trainer for clinical diagnosis, powered by OpenAI and St
 - **Diagnosis submission** with flexible answer matching (accepts equivalent/partial answers)
 - **Reveal correct diagnosis** on demand
 - **Download the entire case discussion as a PDF** (with Unicode-safe export)
-- **Dark mode friendly UI** (see screenshot below)
+- **Dark mode friendly UI** 
 
 ---
 
