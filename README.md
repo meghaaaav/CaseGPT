@@ -1,4 +1,4 @@
-# Clinical Diagnosis Practice Tool
+# CaseGPT: Clinical Diagnosis Practice Tool
 
 A web-based interactive trainer for clinical diagnosis, powered by OpenAI and Streamlit.
 
